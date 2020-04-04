@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "artifact_doi_url": "https://doi.org/10.5281/zenodo.3608401",
+    "artifact_sources": "GitHub",
+    "artifact_sources_url": "https://github.com/Emma926/paradnn",
+    "authors": "Yu Wang, Gu-Yeon Wei, David Brooks",
+    "badge_acm_artifact_available": "yes",
+    "badge_acm_artifact_functional": "yes",
+    "badge_acm_results_replicated": "yes",
+    "ck_repo_uid": "",
+    "paper_doi_url": "",
+    "paper_pdf_url": "",
+    "reproducibility_url": "https://cKnowledge.io/event/repro-mlsys2020",
+    "results": "",
+    "results_dashboard_url": "",
+    "results_url": "",
+    "some_results_replicated": "",
+    "title": "A Systematic Methodology for Analysis of Deep Learning Hardware and Software Platforms",
+    "unified_artifact_appendix": "https://github.com/ctuning/ck-artifact-evaluation/tree/master/wfe/artifact-evaluation/templates",
+    "where": "MLSys'20",
+    "where_url": "https://mlsys.org/Conferences/2020",
+    "workflow": "",
+    "workflow_url": ""
+  },
+  "tags": [
+    "mlsys",
+    "mlsys20",
+    "papers",
+    "papers-mlsys",
+    "papers-mlsys-2020",
+    "reproduced-papers",
+    "ctuning",
+    "reproindex"
+  ],
+  "source":"https://cKnowledge.io/event/repro-mlsys2020",
+  "license":"CC BY-SA 4.0"
+}

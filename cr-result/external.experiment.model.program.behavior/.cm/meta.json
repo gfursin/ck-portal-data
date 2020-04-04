@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "scenario": "experiment.model.program.behavior",
+    "scenario_uid": "a03dafeff8094c0d",
+    "title": "Testing crowd-experiments (crowdsource modeling of program behavior)",
+    "url": "http://cknowledge.org/repo/web.php?template=cknowledge&action=index&module_uoa=wfe&native_action=show&native_module_uoa=program.optimization&scenario=experiment.model.program.behavior",
+    "viz_engine": "ck_alpha"
+  },
+  "tags": [
+    "cr-result",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-alpha"
+  ]
+}

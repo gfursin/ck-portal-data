@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "scenario": "experiment.bench.tensorflow",
+    "scenario_uid": "bca33b04b438d756",
+    "title": "Testing crowd-experiments (crowd-benchmark DNN libraries and models (TensorFlow))",
+    "url": "http://cknowledge.org/repo/web.php?template=cknowledge&action=index&module_uoa=wfe&native_action=show&native_module_uoa=program.optimization&scenario=experiment.bench.tensorflow",
+    "viz_engine": "ck_alpha"
+  },
+  "tags": [
+    "cr-result",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-alpha"
+  ]
+}

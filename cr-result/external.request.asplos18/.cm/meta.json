@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "scenario": "request.asplos18",
+    "scenario_uid": "a555738be4b65860",
+    "title": "Testing crowd-experiments (Open ACM ReQuEST @ ASPLOS'18 tournament (image classification))",
+    "url": "http://cknowledge.org/repo/web.php?template=cknowledge&action=index&module_uoa=wfe&native_action=show&native_module_uoa=program.optimization&scenario=request.asplos18",
+    "viz_engine": "ck_alpha"
+  },
+  "related_components": {
+    "paper": {
+      "title": " Introducing ReQuEST: an Open Platform for Reproducible and Quality-Efficient Systems-ML Tournaments",
+      "uid": "74afc74723994c5d"
+    }
+  },
+  "tags": [
+    "cr-result",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-alpha"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a628ff440400889d",
+  "backup_module_uid": "98fc13f03fb47dab",
+  "backup_module_uoa": "cr-event",
+  "control": {
+    "engine": "CK",
+    "iso_datetime": "2019-06-24T13:37:20.569249",
+    "version": [
+      "1",
+      "9",
+      "8",
+      "1"
+    ]
+  },
+  "data_name": "repro-trust2014"
+}

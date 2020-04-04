@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "artifact_doi_url": "https://arxiv.org/abs/1704.04861",
+    "authors": "Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam",
+    "paper_doi_url": "https://arxiv.org/abs/1704.04861",
+    "paper_pdf_url": "https://arxiv.org/pdf/1704.04861.pdf",
+    "title": "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications",
+    "where": "ArXiv"
+  },
+  "tags": [
+    "papers",
+    "reproindex"
+  ],
+  "source":"https://arxiv.org",
+  "license":"CC BY-SA 4.0"
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "scenario": "experiment.tune.compiler.flags.llvm.e.x",
+    "scenario_uid": "4007aceb8345e340",
+    "title": "Testing crowd-experiments (auto/crowd-tune LLVM compiler flags (minimize execution time, do not degrade code size))",
+    "url": "http://cknowledge.org/repo/web.php?template=cknowledge&action=index&module_uoa=wfe&native_action=show&native_module_uoa=program.optimization&scenario=experiment.tune.compiler.flags.llvm.e.x",
+    "viz_engine": "ck_alpha"
+  },
+  "tags": [
+    "cr-result",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-alpha"
+  ]
+}

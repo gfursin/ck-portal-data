@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "extra_scenario": "1",
+    "scenario": "challenge.vqe",
+    "scenario_uid": "a44f5985526c2323",
+    "title": "Quantum Open Challenge (Variational Quantum Eigensolver) - Time to Solution",
+    "viz_engine": "ck_beta"
+  },
+  "tags": [
+    "cr-result",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-beta"
+  ]
+}

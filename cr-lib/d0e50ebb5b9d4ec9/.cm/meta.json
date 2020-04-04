@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "abstract": "Machine-learning (ML) hardware and software system demand is burgeoning. Driven by ML applications, the number of different ML inference systems has exploded. Over 100 organizations are building ML inference chips, and the systems that incorporate existing models span at least three orders of magnitude in power consumption and four orders of magnitude in performance; they range from embedded devices to data-center solutions. Fueling the hardware are a dozen or more software frameworks and libraries. The myriad combinations of ML hardware and ML software make assessing ML-system performance in an architecture-neutral, representative, and reproducible manner challenging. There is a clear need for industry-wide standard ML benchmarking and evaluation criteria. MLPerf Inference answers that call. Driven by more than 30 organizations as well as more than 200 ML engineers and practitioners, MLPerf implements a set of rules and practices to ensure comparability across systems with wildly differing architectures. In this paper, we present the method and design principles of the initial MLPerf Inference release. The first call for submissions garnered more than 600 inference-performance measurements from 14 organizations, representing over 30 systems that show a range of capabilities.",
+    "authors": "Vijay Janapa Reddi, Christine Cheng, David Kanter, Peter Mattson, Guenther Schmuelling, Carole-Jean Wu, Brian Anderson, Maximilien Breughe, Mark Charlebois, William Chou, Ramesh Chukka, Cody Coleman, Sam Davis, Pan Deng, Greg Diamos, Jared Duke, Dave Fick, J. Scott Gardner, Itay Hubara, Sachin Idgunji, Thomas B. Jablin, Jeff Jiao, Tom St. John, Pankaj Kanwar, David Lee, Jeffery Liao, Anton Lokhmotov, Francisco Massa, Peng Meng, Paulius Micikevicius, Colin Osborne, Gennady Pekhimenko, Arun Tejusve Raghunath Rajan, Dilip Sequeira, Ashish Sirasao, Fei Sun, Hanlin Tang, Michael Thomson, Frank Wei, Ephrem Wu, Lingjie Xu, Koichi Yamada, Bing Yu, George Yuan, Aaron Zhong, Peizhao Zhang, Yuchen Zhou",
+    "arxiv": "1911.02549",
+    "paper_doi_url": "",
+    "paper_pdf_url": "https://arxiv.org/pdf/1911.02549",
+    "results": "CK format",
+    "results_dashboard_url": "https://cKnowledge.io/c/cr-result/sota-mlperf-object-detection-v0.5-crowd-benchmarking",
+    "results_url": "https://github.com/mlperf/inference/tree/master/v0.5",
+    "tasks": {
+      "ce590654f3385b8f": {
+        "data_uoa": "object-detection-tf-py-benchmark"
+      }
+    },
+    "cr_results": ["cd842cdaed4d32e2",
+                   "184e3ba2ee27cff5",
+                   "374275749874adba",
+                   "49ba90a53ef0f5d0",
+                   "8e45edab745c8867"],
+    "title": "MLPerf Inference Benchmark",
+    "where": "MLPerf inference v0.5",
+    "where_url": "https://github.com/mlperf/inference/tree/master/v0.5",
+    "workflow": "CK",
+    "workflow_url": "https://cKnowledge.io/c/cr-solution/demo-obj-detection-coco-tf-cpu-benchmark-linux-portable-workflows/"
+  },
+  "source":"https://mlperf.org",
+  "tags": [
+    "papers",
+    "papers-mlperf",
+    "papers-mlperf-inference",
+    "papers-request-asplos-2018",
+    "reproduced-papers",
+    "portable-workflow",
+    "portable-workflow-ck",
+    "reproindex"
+  ],
+  "source":"https://cTuning.org/ae",
+  "license":"CC BY-SA 4.0"
+}

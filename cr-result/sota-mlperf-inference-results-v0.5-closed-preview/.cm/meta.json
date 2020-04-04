@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "info": "SOTA: Validating MLPerf inference benchmark v0.5 results (closed, Preview).",
+    "scenario": "universal",
+    "scenario_uid": "3bf7371412455a8f",
+    "title": "SOTA: MLPerf inference benchmark v0.5 results snapshot (closed, Preview) for collaborative validation",
+    "viz_engine": "ck_beta"
+  },
+  "notes": "Benchmark results: <b>SS</b> - Single Stream in milliseconds, <b>MS</b> - MultiStream in no. streams, <b>S</b> - Server in QPS, <b>O</b> - Offline in inputs/second.<br> cK components: <a href=\"/?q=module_uoa%3Apackage\"><u>packages</u></a>, <a href=\"/portal/search/?q=module_uoa%3Asoft\"><u>software detection plugins</u></a>.<br>Image Classification: <b>IC1</b> - ImageNet, MobileNet-v1, <b>IC2</b> - ImageNet, ResNet-50 v1.5.<br>Object detection: <b>OD1</b> - COCO, SSD w/ MobileNet-v1, <b>OD2</b> - COCO 1200x1200, SSD w/ ResNet-34.<br>Translation: <b>NMT</b> - WMT E-G, NMT.<br>Form Factor: <b>FF_M</b> - Mobile/Handheld, <b>FF_D</b> - Desktop/Workstation, <b>FF_S</b> - Server, <b>FF_E</b> - Edge/Embedded.<br>These are not official results but a snapshot to collaboratively reproduce results and add portable workflows!<br>MLPerf name and logo are trademarks. See www.mlperf.org for more information.",
+  "related_components": {
+    "paper": {
+      "title": "MLPerf Inference Benchmark",
+      "uid": "d0e50ebb5b9d4ec9"
+    },
+    "solutions": [
+      {
+        "name": "1",
+        "uid": "1863f39cdaef4539"
+      },
+      {
+        "name": "2",
+        "uid": "bdafb75d4404ad0f"
+      },
+      {
+        "name": "3",
+        "uid": "c4ebcb732f9dee76"
+      },
+      {
+        "name": "4",
+        "uid": "671004c70aaea939"
+      },
+      {
+        "name": "5",
+        "uid": "6435b0db54876aac"
+      },
+      {
+        "name": "6",
+        "uid": "019c4f9f9acc8ff6"
+      },
+      {
+        "name": "7",
+        "uid": "4baf94abf6d1f8db"
+      }
+    ]
+  },
+  "source": "https://mlperf.org/inference-overview/#overview",
+  "tags": [
+    "cr-result",
+    "reproduced-results",
+    "imported-ck-results",
+    "mlperf",
+    "mlperf-inference",
+    "mlperf-inference-v0.5",
+    "mlperf-inference-v0.5-snapshot",
+    "viz-engine-ck-beta"
+  ]
+}
