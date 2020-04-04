@@ -6,7 +6,7 @@
     "paper_doi_url": "",
     "paper_pdf_url": "https://arxiv.org/pdf/1911.02549",
     "results": "CK format",
-    "results_dashboard_url": "https://cKnowledge.io/c/cr-result/sota-mlperf-object-detection-v0.5-crowd-benchmarking",
+    "results_dashboard_url": "https://cBrain.io/c/cr-result/sota-mlperf-object-detection-v0.5-crowd-benchmarking",
     "results_url": "https://github.com/mlperf/inference/tree/master/v0.5",
     "tasks": {
       "ce590654f3385b8f": {
@@ -22,7 +22,7 @@
     "where": "MLPerf inference v0.5",
     "where_url": "https://github.com/mlperf/inference/tree/master/v0.5",
     "workflow": "CK",
-    "workflow_url": "https://cKnowledge.io/c/cr-solution/demo-obj-detection-coco-tf-cpu-benchmark-linux-portable-workflows/"
+    "workflow_url": "https://cBrain.io/solution/demo-obj-detection-coco-tf-cpu-benchmark-linux-portable-workflows/"
   },
   "source":"https://mlperf.org",
   "tags": [

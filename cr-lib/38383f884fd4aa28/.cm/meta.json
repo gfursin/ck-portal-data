@@ -10,7 +10,7 @@
     "ck_repo_uid": "",
     "paper_doi_url": "",
     "paper_pdf_url": "",
-    "reproducibility_url": "https://cKnowledge.io/event/repro-mlsys2020",
+    "reproducibility_url": "https://cBrain.io/event/repro-mlsys2020",
     "results": "",
     "results_dashboard_url": "",
     "results_url": "",
@@ -32,6 +32,6 @@
     "ctuning",
     "reproindex"
   ],
-  "source":"https://cKnowledge.io/event/repro-mlsys2020",
+  "source":"https://cBrain.io/event/repro-mlsys2020",
   "license":"CC BY-SA 4.0"
 }
