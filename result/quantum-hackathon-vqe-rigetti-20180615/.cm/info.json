@@ -1,0 +1,18 @@
+{
+  "backup_data_uid": "04a9b84653acd207",
+  "backup_module_uid": "4cd2850867df4241",
+  "backup_module_uoa": "result",
+  "control": {
+    "author": "cTuning foundation",
+    "author_webpage": "https://cTuning.org",
+    "engine": "CK",
+    "license": " Creative Commons License (CC-BY)",
+    "version": [
+      "1",
+      "11",
+      "4",
+      "1"
+    ]
+  },
+  "data_name": "Quantum Hackathon 2018-06-15 (Variational Quantum Eigensolver on Rigetti) - Solution Convergence"
+}

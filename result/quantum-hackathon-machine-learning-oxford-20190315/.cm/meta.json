@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "scenario": "hackathon.20190315",
+    "scenario_uid": "905643d8991ad557",
+    "title": "Quantum Hackathon 2019-03-15 (Quantum Machine Learning : Oxford)",
+    "viz_engine": "ck_beta"
+  },
+  "tags": [
+    "result",
+    "benchmarking",
+    "reproducible-benchmarking",
+    "crowd-benchmarking",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-beta"
+  ]
+}

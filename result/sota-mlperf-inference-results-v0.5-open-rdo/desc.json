@@ -1,0 +1,277 @@
+{
+  "data_config": {
+    "default_key_x": "seq_number",
+    "default_key_y": "p_ic2_o",
+    "default_sort_key": "seq_number",
+    "selector2": [
+      {
+        "key": "submitter",
+        "name": "Submitter"
+      },
+      {
+        "key": "system",
+        "name": "System"
+      },
+      {
+        "key": "processor",
+        "name": "Processor"
+      },
+      {
+        "key": "processor_no",
+        "name": "Processor #",
+        "type": "int"
+      },
+      {
+        "key": "accelerator",
+        "name": "Accelerator"
+      },
+      {
+        "key": "accelerator_no",
+        "name": "Accelerator #",
+        "type": "int"
+      }
+    ],
+    "table_view": [
+      {
+        "key": "seq_number",
+        "name": "Index",
+        "type": "int"
+      },
+      {
+        "key": "id",
+        "name": "ID"
+      },
+      {
+        "key": "submitter",
+        "name": "Submitter"
+      },
+      {
+        "key": "system",
+        "name": "System"
+      },
+      {
+        "key": "benchmark",
+        "name": "Model used, if not Closed Division default"
+      },
+      {
+        "key": "p_ic1_ss",
+        "name": "P_IC1_SS"
+      },
+      {
+        "key": "p_ic1_ms",
+        "name": "P_IC1_MS"
+      },
+      {
+        "key": "p_ic1_s",
+        "name": "P_IC1_S"
+      },
+      {
+        "key": "p_ic1_o",
+        "name": "P_IC1_O"
+      },
+      {
+        "key": "p_ic2_ss",
+        "name": "P_IC2_SS"
+      },
+      {
+        "key": "p_ic2_ms",
+        "name": "P_IC2_MS"
+      },
+      {
+        "key": "p_ic2_s",
+        "name": "P_IC2_S"
+      },
+      {
+        "key": "p_ic2_o",
+        "name": "P_IC2_O",
+        "type": "int"
+      },
+      {
+        "key": "p_od1_ss",
+        "name": "P_OD1_SS"
+      },
+      {
+        "key": "p_od1_ms",
+        "name": "P_OD1_MS"
+      },
+      {
+        "key": "p_od1_s",
+        "name": "P_OD1_S"
+      },
+      {
+        "key": "p_od1_o",
+        "name": "P_OD1_O"
+      },
+      {
+        "format": "%.2f",
+        "key": "p_od2_ss",
+        "name": "P_OD2_SS",
+        "type": "float"
+      },
+      {
+        "key": "p_od2_ms",
+        "name": "P_OD2_MS"
+      },
+      {
+        "key": "p_od2_s",
+        "name": "P_OD2_S"
+      },
+      {
+        "key": "p_od2_o",
+        "name": "P_OD2_O"
+      },
+      {
+        "key": "p_nmt_ss",
+        "name": "P_NMT_SS"
+      },
+      {
+        "key": "p_nmt_ms",
+        "name": "P_NMT_MS"
+      },
+      {
+        "key": "p_nmt_s",
+        "name": "P_NMT_S"
+      },
+      {
+        "key": "p_nmt_o",
+        "name": "P_NMT_O"
+      },
+      {
+        "key": "a_ic1_ss",
+        "name": "A_IC1_SS"
+      },
+      {
+        "key": "a_ic1_ms",
+        "name": "A_IC1_MS"
+      },
+      {
+        "key": "a_ic1_s",
+        "name": "A_IC1_S"
+      },
+      {
+        "key": "a_ic1_o",
+        "name": "A_IC1_O"
+      },
+      {
+        "key": "a_ic2_ss",
+        "name": "A_IC2_SS"
+      },
+      {
+        "key": "a_ic2_ms",
+        "name": "A_IC2_MS"
+      },
+      {
+        "key": "a_ic2_s",
+        "name": "A_IC2_S"
+      },
+      {
+        "format": "%.2f",
+        "key": "a_ic2_o",
+        "name": "A_IC2_O",
+        "type": "float"
+      },
+      {
+        "key": "a_od1_ss",
+        "name": "A_OD1_SS"
+      },
+      {
+        "key": "a_od1_ms",
+        "name": "A_OD1_MS"
+      },
+      {
+        "key": "a_od1_s",
+        "name": "A_OD1_S"
+      },
+      {
+        "key": "a_od1_o",
+        "name": "A_OD1_O"
+      },
+      {
+        "format": "%.2f",
+        "key": "a_od2_ss",
+        "name": "A_OD2_SS",
+        "type": "float"
+      },
+      {
+        "key": "a_od2_ms",
+        "name": "A_OD2_MS"
+      },
+      {
+        "key": "a_od2_s",
+        "name": "A_OD2_S"
+      },
+      {
+        "key": "a_od2_o",
+        "name": "A_OD2_O"
+      },
+      {
+        "key": "a_nmt_ss",
+        "name": "A_NMT_SS"
+      },
+      {
+        "key": "a_nmt_ms",
+        "name": "A_NMT_MS"
+      },
+      {
+        "key": "a_nmt_s",
+        "name": "A_NMT_S"
+      },
+      {
+        "key": "a_nmt_o",
+        "name": "A_NMT_O"
+      },
+      {
+        "key": "processor",
+        "name": "Processor"
+      },
+      {
+        "key": "processor_no",
+        "name": "Processor #",
+        "type": "int"
+      },
+      {
+        "key": "accelerator",
+        "name": "Accelerator"
+      },
+      {
+        "key": "accelerator_no",
+        "name": "Accelerator #",
+        "type": "int"
+      },
+      {
+        "key": "software",
+        "name": "Software"
+      },
+      {
+        "key": "ff_m",
+        "name": "FF_M"
+      },
+      {
+        "key": "ff_d",
+        "name": "FF_D"
+      },
+      {
+        "key": "ff_s",
+        "name": "FF_S"
+      },
+      {
+        "key": "ff_e",
+        "name": "FF_E"
+      },
+      {
+        "key": "details",
+        "name": "Details",
+        "type": "url"
+      },
+      {
+        "key": "code",
+        "name": "Code",
+        "type": "url"
+      },
+      {
+        "key": "notes",
+        "name": "Notes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "scenario": "experiment.bench.dnn.mobile",
+    "scenario_uid": "4dcf435bb0d92fa6",
+    "title": "Testing crowd-experiments (crowd-benchmark DNN libraries and models using mobile devices)",
+    "url": "http://cknowledge.org/repo/web.php?template=cknowledge&action=index&module_uoa=wfe&native_action=show&native_module_uoa=program.optimization&scenario=experiment.bench.dnn.mobile",
+    "viz_engine": "ck_alpha"
+  },
+  "tags": [
+    "result",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-alpha"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "backup_data_uid": "661e56120ac43058",
+  "backup_module_uid": "4cd2850867df4241",
+  "backup_module_uoa": "result",
+  "control": {
+    "author": "cTuning foundation",
+    "author_webpage": "https://cTuning.org",
+    "engine": "CK",
+    "license": " Creative Commons License (CC-BY)",
+    "version": [
+      "1",
+      "11",
+      "4",
+      "1"
+    ]
+  },
+  "data_name": "Quantum Hackathon 2019-03-15 (Quantum Machine Learning : Oxford)"
+}

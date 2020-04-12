@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "scenario": "challenge.vqe",
+    "scenario_uid": "a44f5985526c2323",
+    "title": "Quantum Open Challenge (Variational Quantum Eigensolver) - Solution Convergence",
+    "viz_engine": "ck_beta"
+  },
+  "tags": [
+    "result",
+    "benchmarking",
+    "reproducible-benchmarking",
+    "crowd-benchmarking",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-beta"
+  ]
+}

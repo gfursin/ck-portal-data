@@ -1,0 +1,21 @@
+{
+  "misc": {
+    "dashboard_note": " (prototype)",
+    "dashboard_url": "http://cknowledge.org/dashboard/scc.sc19",
+    "date": "20191117",
+    "date_print": "November 17, 2019",
+    "images": [
+      {
+        "file_url": "https://ReproIndex.com/_resources/cup.png"
+      }
+    ],
+    "title": "Student Cluster Competition at ACM/IEEE SuperComputing'19",
+    "url": "http://www.studentclustercompetition.us"
+  },
+  "tags": [
+    "news-and-events",
+    "events",
+    "events-competitions",
+    "events-upcoming"
+  ]
+}

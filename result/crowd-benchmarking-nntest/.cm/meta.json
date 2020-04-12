@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "scenario": "nntest",
+    "scenario_uid": "38b4f1dcda465782",
+    "title": "NNTest (collaboratively benchmarking and optimizing neural network operations)",
+    "viz_engine": "ck_beta"
+  },
+  "related_components": {
+    "paper": {
+      "title": "Multi-objective autotuning of MobileNets across the full software/hardware stack",
+      "uid": "a9144f8e833f27ef"
+    }
+  },
+  "tags": [
+    "result",
+    "benchmarking",
+    "reproducible-benchmarking",
+    "crowd-benchmarking",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-beta"
+  ]
+}

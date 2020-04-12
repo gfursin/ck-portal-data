@@ -1,0 +1,18 @@
+{
+  "backup_data_uid": "e1754ebd831d4ea3",
+  "backup_module_uid": "4cd2850867df4241",
+  "backup_module_uoa": "result",
+  "control": {
+    "author": "cTuning foundation",
+    "author_webpage": "https://cTuning.org",
+    "engine": "CK",
+    "license": " Creative Commons License (CC-BY)",
+    "version": [
+      "1",
+      "11",
+      "4",
+      "1"
+    ]
+  },
+  "data_name": "Testing crowd-experiments (CK wrapper for OpenCL bug reports from Imperial)"
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "scenario": "experiment.tune.compiler.flags.gcc.e.x",
+    "scenario_uid": "6b9845eca8aa7fa5",
+    "title": "Testing crowd-experiments (auto/crowd-tune GCC compiler flags (minimize execution time, do not degrade code size))",
+    "url": "http://cknowledge.org/repo/web.php?template=cknowledge&action=index&module_uoa=wfe&native_action=show&native_module_uoa=program.optimization&scenario=experiment.tune.compiler.flags.gcc.e.x",
+    "viz_engine": "ck_alpha"
+  },
+  "tags": [
+    "result",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-alpha"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "extra_scenario": "1",
+    "scenario": "hackathon.20181006",
+    "scenario_uid": "e485cb1137404d96",
+    "title": "Quantum Hackathon 2018-10-06 (Variational Quantum Eigensolver on IBM) - Time to Solution",
+    "viz_engine": "ck_beta"
+  },
+  "tags": [
+    "result",
+    "benchmarking",
+    "reproducible-benchmarking",
+    "crowd-benchmarking",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-beta"
+  ]
+}

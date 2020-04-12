@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "scenario": "mlperf.mobilenets",
+    "scenario_uid": "98c849f7764a8fba",
+    "title": "MLPerf Inference v0.5 submission preparation - Image Classification - MobileNets (highlights)",
+    "viz_engine": "ck_beta"
+  },
+  "notes":"Preparing submission for MLPerf inference benchmark v0.5. MLPerf name and logo are trademarks. See www.mlperf.org for more information.",
+  "related_components": {
+    "paper": {
+      "title": "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications",
+      "uid": "9a927e4ce9be41b4"
+    },
+    "solutions": [
+      {"uid":"1863f39cdaef4539", "name":"1"}, 
+      {"uid":"bdafb75d4404ad0f", "name":"2"}, 
+      {"uid":"c4ebcb732f9dee76", "name":"3"}, 
+      {"uid":"671004c70aaea939", "name":"4"}, 
+      {"uid":"6435b0db54876aac", "name":"5"}, 
+      {"uid":"019c4f9f9acc8ff6", "name":"6"}, 
+      {"uid":"4baf94abf6d1f8db", "name":"7"}
+    ]
+  },
+  "tags": [
+    "result",
+    "reproduced-results",
+    "imported-ck-results",
+    "mlperf",
+    "mlperf-inference",
+    "viz-engine-ck-beta"
+  ]
+}

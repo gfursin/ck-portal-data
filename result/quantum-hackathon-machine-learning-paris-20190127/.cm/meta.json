@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "scenario": "hackathon.20190127",
+    "scenario_uid": "70fa4c547c1a1f1a",
+    "title": "Quantum Hackathon 2019-01-27 (Quantum Machine Learning : Paris)",
+    "viz_engine": "ck_beta"
+  },
+  "tags": [
+    "result",
+    "benchmarking",
+    "reproducible-benchmarking",
+    "crowd-benchmarking",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-beta"
+  ]
+}

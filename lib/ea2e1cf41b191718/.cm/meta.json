@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "artifact_doi_url": "http://doi.org/10.5281/zenodo.3610717",
+    "artifact_sources": "GitHub",
+    "artifact_sources_url": "https://github.com/mlperf/training_results_v0.5",
+    "authors": "Peter Mattson, Christine Cheng, Cody Coleman, Greg Diamos, Paulius Micikevicius, David Patterson, Hanlin Tang, Gu-Yeon Wei, Peter Bailis, Victor Bittorf, David Brooks, Dehao Chen, Debojyoti Dutta, Udit Gupta, Kim Hazelwood, Andrew Hock, Xinyuan Huang, Atsushi Ike, Bill Jia, Daniel Kang, David Kanter, Naveen Kumar, Jeffery Liao, Guokai Ma, Deepak Narayanan, Tayo Oguntebi, Gennady Pekhimenko, Lillian Pentecost, Vijay Janapa Reddi, Taylor Robie, Tom St. John, Tsuguchika Tabaru, Carole-Jean Wu, Lingjie Xu, Masafumi Yamazaki, Cliff Young, Matei Zaharia",
+    "badge_acm_artifact_available": "yes",
+    "badge_acm_artifact_functional": "yes",
+    "badge_acm_results_replicated": "yes",
+    "ck_repo_uid": "",
+    "paper_doi_url": "",
+    "paper_pdf_url": "",
+    "reproducibility_url": "https://cKnowledge.io/event/repro-mlsys2020",
+    "results": "",
+    "results_dashboard_url": "",
+    "results_url": "",
+    "some_results_replicated": "",
+    "title": "MLPerf Training Benchmark",
+    "unified_artifact_appendix": "https://github.com/ctuning/ck-artifact-evaluation/tree/master/wfe/artifact-evaluation/templates",
+    "where": "MLSys'20",
+    "where_url": "https://mlsys.org/Conferences/2020",
+    "workflow": "",
+    "workflow_url": ""
+  },
+  "tags": [
+    "mlsys",
+    "mlsys20",
+    "papers",
+    "papers-mlsys",
+    "papers-mlsys-2020",
+    "reproduced-papers",
+    "ctuning",
+    "reproindex"
+  ],
+  "source":"https://cKnowledge.io/event/repro-mlsys2020",
+  "license":"CC BY-SA 4.0"
+}

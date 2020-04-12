@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "scenario": "experiment.bench.caffe2",
+    "scenario_uid": "75114c4997197226",
+    "title": "Testing crowd-experiments (crowd-benchmark DNN libraries and models (Caffe2))",
+    "url": "http://cknowledge.org/repo/web.php?template=cknowledge&action=index&module_uoa=wfe&native_action=show&native_module_uoa=program.optimization&scenario=experiment.bench.caffe2",
+    "viz_engine": "ck_alpha"
+  },
+  "tags": [
+    "result",
+    "reproduced-results",
+    "imported-ck-results",
+    "viz-engine-ck-alpha"
+  ]
+}

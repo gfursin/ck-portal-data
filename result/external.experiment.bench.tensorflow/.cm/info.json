@@ -1,0 +1,18 @@
+{
+  "backup_data_uid": "84c35720c5e46679",
+  "backup_module_uid": "4cd2850867df4241",
+  "backup_module_uoa": "result",
+  "control": {
+    "author": "cTuning foundation",
+    "author_webpage": "https://cTuning.org",
+    "engine": "CK",
+    "license": " Creative Commons License (CC-BY)",
+    "version": [
+      "1",
+      "11",
+      "4",
+      "1"
+    ]
+  },
+  "data_name": "Testing crowd-experiments (crowd-benchmark DNN libraries and models (TensorFlow))"
+}
