@@ -6,6 +6,7 @@
     "title": "SOTA: MLPerf inference benchmark v0.5 results snapshot (open, Available) connected to the cK crowd-benchmarking platform",
     "viz_engine": "ck_beta"
   },
+  "highlight_bold_in_search": "yes",
   "notes": "This is a snapshot of MLPerf benchmark results together with unofficial results collected via <a href=\"https://cKnowledge.io\">CK crowd-benchmarking platform</a> with portable CK workflows!<br>MLPerf name and logo are trademarks. See <a href=\"https://www.mlperf.org\">www.mlperf.org</a> for more information.",
   "related_components": {
     "paper": {
@@ -19,6 +20,10 @@
       },
       {
         "name": "2",
+        "uid": "1863f39cdaef4539"
+      },
+      {
+        "name": "3",
         "uid": "1863f39cdaef4539"
       }
     ]

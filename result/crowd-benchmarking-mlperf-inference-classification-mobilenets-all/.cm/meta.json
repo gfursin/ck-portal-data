@@ -6,7 +6,7 @@
     "title": "MLPerf Inference v0.5 submission preparation - Image Classification - MobileNets (all)",
     "viz_engine": "ck_beta"
   },
-  "notes":"Preparing submission for MLPerf inference benchmark v0.5. MLPerf name and logo are trademarks. See www.mlperf.org for more information.",
+  "highlight_bold_in_search": "yes",
   "related_components": {
     "paper": {
       "title": "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications",

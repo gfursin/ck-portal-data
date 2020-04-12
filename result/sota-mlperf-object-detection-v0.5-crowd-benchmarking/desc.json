@@ -7,8 +7,8 @@
     "default_sort_key": "p_od2_ss",
     "selector2": [
       {
-        "key": "ck_crowd_benchmarking",
-        "name": "cK crowd-benchmarking"
+        "key": "crowd_benchmarking",
+        "name": "CK crowd-benchmarking"
       },
       {
         "key": "submitter",
@@ -124,8 +124,8 @@
         "name": "Notes"
       },
       {
-        "key": "ck_crowd_benchmarking",
-        "name": "cK crowd-benchmarking"
+        "key": "crowd_benchmarking",
+        "name": "CK crowd-benchmarking"
       }
     ]
   }

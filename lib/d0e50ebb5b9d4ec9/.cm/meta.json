@@ -13,11 +13,11 @@
         "data_uoa": "object-detection-tf-py-benchmark"
       }
     },
-    "cr_results": ["cd842cdaed4d32e2",
-                   "184e3ba2ee27cff5",
-                   "374275749874adba",
-                   "49ba90a53ef0f5d0",
-                   "8e45edab745c8867"],
+    "results": ["cd842cdaed4d32e2",
+                "184e3ba2ee27cff5",
+                "374275749874adba",
+                "49ba90a53ef0f5d0",
+                "8e45edab745c8867"],
     "title": "MLPerf Inference Benchmark",
     "where": "MLPerf inference v0.5",
     "where_url": "https://github.com/mlperf/inference/tree/master/v0.5",
