@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "extra_scenario": "5",
+    "scenario": "mlperf.inference",
+    "scenario_uid": "abeb3402c8c86f6f",
+    "title": "MLPerf Inference v0.5 - Object Detection - MultiStream (number of streams)",
+    "viz_engine": "ck_beta"
+  },
+  "notes":"MLPerf inference benchmark results v0.5. MLPerf name and logo are trademarks. See www.mlperf.org for more information.",
+  "related_components": {
+    "paper": {
+      "title": "MLPerf Inference Benchmark",
+      "uid": "d0e50ebb5b9d4ec9"
+    },
+    "solutions": [
+      {"uid":"demo-obj-detection-coco-tf-cpu-benchmark-linux-portable-workflows", "name":"MLPerf crowd-benchmarking (50 images)"}, 
+      {"uid":"demo-obj-detection-mlperf-coco-tf-cpu-benchmark-linux-portable-workflows", "name":"MLPerf crowd-benchmarking (5000 images)"} 
+    ]
+  },
+  "tags": [
+    "result",
+    "reproduced-results",
+    "imported-ck-results",
+    "mlperf",
+    "mlperf-inference",
+    "mlperf-inference-v0.5",
+    "viz-engine-ck-beta"
+  ]
+}
