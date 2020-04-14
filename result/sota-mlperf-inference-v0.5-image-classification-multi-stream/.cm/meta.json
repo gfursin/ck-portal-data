@@ -12,6 +12,7 @@
       "title": "MLPerf Inference Benchmark",
       "uid": "d0e50ebb5b9d4ec9"
     },
+    "results_tags":"sota-mlperf-inference-v0.5",
     "solutions": [
       {"uid":"demo-obj-detection-coco-tf-cpu-benchmark-linux-portable-workflows", "name":"MLPerf crowd-benchmarking (50 images)"}, 
       {"uid":"demo-obj-detection-mlperf-coco-tf-cpu-benchmark-linux-portable-workflows", "name":"MLPerf crowd-benchmarking (5000 images)"}
