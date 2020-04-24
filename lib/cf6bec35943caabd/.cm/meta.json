@@ -26,7 +26,7 @@
       }
     },
     "title": "Optimizing Deep Learning Workloads on ARM GPU with TVM",
-    "unified_artifact_appendix": "https://github.com/ctuning/ck-artifact-evaluation/tree/master/wfe/artifact-evaluation/templates",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
     "where": "ReQuEST-ASPLOS'18",
     "where_url": "http://cKnowledge.org/request-cfp-asplos2018.html",
     "workflow": "CK",

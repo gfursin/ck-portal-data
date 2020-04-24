@@ -42,7 +42,7 @@
       }
     },
     "title": "Collective Knowledge workflow for collaborative research into multi-objective autotuning and machine learning techniques",
-    "unified_artifact_appendix": "https://github.com/ctuning/ck-artifact-evaluation/tree/master/wfe/artifact-evaluation/templates",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
     "where": "ArXiv",
     "where_url": "",
     "workflow": "CK",

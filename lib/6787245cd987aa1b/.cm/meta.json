@@ -15,7 +15,7 @@
     "results_url": "",
     "some_results_replicated": "yes",
     "title": "Kernel machines that adapt to GPUs for effective large batch training",
-    "unified_artifact_appendix": "https://github.com/ctuning/ck-artifact-evaluation/tree/master/wfe/artifact-evaluation/templates",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
     "where": "SysML'19",
     "where_url": "http://sysml.cc",
     "workflow": "",

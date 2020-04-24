@@ -20,7 +20,7 @@
       }
     },
     "title": "Priority-based Parameter Propagation for Distributed DNN Training",
-    "unified_artifact_appendix": "https://github.com/ctuning/ck-artifact-evaluation/tree/master/wfe/artifact-evaluation/templates",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
     "where": "SysML'19",
     "where_url": "http://sysml.cc",
     "workflow": "CK",

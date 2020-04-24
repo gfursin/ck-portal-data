@@ -27,7 +27,7 @@
       }
     },
     "title": "Optimizing Word2Vec Performance on Multicore Systems",
-    "unified_artifact_appendix": "https://github.com/ctuning/ck-artifact-evaluation/tree/master/wfe/artifact-evaluation/templates",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
     "where": "IA3 at Supercomputing'17",
     "where_url": "http://hpc.pnl.gov/IA3/IA3/IA3-2017/Program.html",
     "workflow": "CK",
