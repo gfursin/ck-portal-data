@@ -1,4 +1,5 @@
 {
+  "license": "CC BY-SA 4.0",
   "meta": {
     "artifact_doi_url": "http://doi.org/10.5281/zenodo.3610717",
     "artifact_sources": "GitHub",
@@ -10,6 +11,9 @@
     "ck_repo_uid": "",
     "paper_doi_url": "https://proceedings.mlsys.org/book/309.pdf",
     "paper_pdf_url": "https://proceedings.mlsys.org/static/paper_files/mlsys/2020/134-Paper.pdf",
+    "related_urls": [
+      "https://zenodo.org/record/3610717"
+    ],
     "reproducibility_url": "https://cKnowledge.io/event/repro-mlsys2020",
     "results": "",
     "results_dashboard_url": "",
@@ -22,6 +26,7 @@
     "workflow": "",
     "workflow_url": ""
   },
+  "source": "https://cKnowledge.io/event/repro-mlsys2020",
   "tags": [
     "mlsys",
     "mlsys20",
@@ -31,7 +36,5 @@
     "reproduced-papers",
     "ctuning",
     "reproindex"
-  ],
-  "source":"https://cKnowledge.io/event/repro-mlsys2020",
-  "license":"CC BY-SA 4.0"
+  ]
 }

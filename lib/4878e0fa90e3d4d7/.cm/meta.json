@@ -1,4 +1,5 @@
 {
+  "license": "CC BY-SA 4.0",
   "meta": {
     "artifact_doi_url": "",
     "artifact_sources": "GitHub",
@@ -7,6 +8,9 @@
     "ck_repo_uid": "640f0b9dadc5bfda",
     "paper_doi_url": "https://dl.acm.org/citation.cfm?id=3049865",
     "paper_pdf_url": "https://www.cl.cam.ac.uk/~sa614/papers/Software-Prefetching-CGO2017.pdf",
+    "related_urls": [
+      "https://dl.acm.org/doi/10.5555/3049832.3049865"
+    ],
     "reproducibility_url": "http://ctuning.org/ae/cgo2017.html",
     "results": "CK format",
     "results_dashboard_url": "https://github.com/SamAinsworth/reproduce-cgo2017-paper/files/618737/ck-aarch64-dashboard.pdf",
@@ -45,6 +49,7 @@
     "workflow": "CK",
     "workflow_url": "https://github.com/SamAinsworth/reproduce-cgo2017-paper"
   },
+  "source": "https://cTuning.org/ae",
   "tags": [
     "papers",
     "papers-cgo",
@@ -54,7 +59,5 @@
     "portable-workflow-ck",
     "ctuning",
     "reproindex"
-  ],
-  "source":"https://cTuning.org/ae",
-  "license":"CC BY-SA 4.0"
+  ]
 }

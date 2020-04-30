@@ -1,4 +1,5 @@
 {
+  "license": "CC BY-SA 4.0",
   "meta": {
     "artifact_doi_url": "",
     "artifact_sources": "GitHub",
@@ -10,6 +11,9 @@
     "ck_repo_uid": "e5245229f1dc0b79",
     "paper_doi_url": "https://doi.org/10.1145/3149704.3149768",
     "paper_pdf_url": "",
+    "related_urls": [
+      "https://dl.acm.org/doi/10.1145/3149704.3149768"
+    ],
     "reproducibility_url": "http://ctuning.org/ae",
     "results": "",
     "results_dashboard_url": "",
@@ -33,6 +37,7 @@
     "workflow": "CK",
     "workflow_url": "https://github.com/vasupsu/IA3_Paper16_ArtifactEvaluation"
   },
+  "source": "https://cTuning.org/ae",
   "tags": [
     "papers",
     "papers-ia3",
@@ -42,7 +47,5 @@
     "portable-workflow-ck",
     "ctuning",
     "reproindex"
-  ],
-  "source":"https://cTuning.org/ae",
-  "license":"CC BY-SA 4.0"
+  ]
 }

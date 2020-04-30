@@ -1,4 +1,5 @@
 {
+  "license": "CC BY-SA 4.0",
   "meta": {
     "artifact_doi_url": "https://doi.org/10.5281/zenodo.1168558",
     "artifact_sources": "",
@@ -10,6 +11,10 @@
     "ck_repo_uid": "",
     "paper_doi_url": "https://doi.org/10.1145/3200691.3178492",
     "paper_pdf_url": "",
+    "related_urls": [
+      "https://zenodo.org/record/1168558",
+      "https://dl.acm.org/doi/10.1145/3200691.3178492"
+    ],
     "reproducibility_url": "http://ctuning.org/ae/ppopp2018.html",
     "results": "",
     "results_dashboard_url": "",
@@ -22,6 +27,7 @@
     "workflow": "",
     "workflow_url": ""
   },
+  "source": "https://cTuning.org/ae",
   "tags": [
     "papers",
     "papers-ppopp",
@@ -29,7 +35,5 @@
     "reproduced-papers",
     "ctuning",
     "reproindex"
-  ],
-  "source":"https://cTuning.org/ae",
-  "license":"CC BY-SA 4.0"
+  ]
 }

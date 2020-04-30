@@ -1,4 +1,5 @@
 {
+  "license": "CC BY-SA 4.0",
   "meta": {
     "artifact_doi_url": "",
     "artifact_sources": "GitHub",
@@ -7,6 +8,9 @@
     "ck_repo_uid": "",
     "paper_doi_url": "https://dl.acm.org/citation.cfm?id=3049864",
     "paper_pdf_url": "",
+    "related_urls": [
+      "https://dl.acm.org/doi/10.5555/3049832.3049864"
+    ],
     "reproducibility_url": "http://ctuning.org/ae/cgo2017.html",
     "results": "",
     "results_dashboard_url": "",
@@ -19,6 +23,7 @@
     "workflow": "",
     "workflow_url": ""
   },
+  "source": "https://cTuning.org/ae",
   "tags": [
     "papers",
     "papers-cgo",
@@ -26,7 +31,5 @@
     "reproduced-papers",
     "ctuning",
     "reproindex"
-  ],
-  "source":"https://cTuning.org/ae",
-  "license":"CC BY-SA 4.0"
+  ]
 }

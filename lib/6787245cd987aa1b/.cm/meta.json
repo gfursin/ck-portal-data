@@ -1,4 +1,5 @@
 {
+  "license": "CC BY-SA 4.0",
   "meta": {
     "artifact_doi_url": "https://doi.org/10.5281/zenodo.2574996",
     "artifact_sources": "GitHub",
@@ -9,6 +10,9 @@
     "ck_repo_uid": "",
     "paper_doi_url": "",
     "paper_pdf_url": "http://www.sysml.cc/doc/2019/171.pdf",
+    "related_urls": [
+      "https://zenodo.org/record/2574996"
+    ],
     "reproducibility_url": "http://ctuning.org/ae/sysml2019.html",
     "results": "",
     "results_dashboard_url": "",
@@ -21,6 +25,7 @@
     "workflow": "",
     "workflow_url": ""
   },
+  "source": "https://cTuning.org/ae",
   "tags": [
     "papers",
     "papers-sysml",
@@ -28,7 +33,5 @@
     "reproduced-papers",
     "ctuning",
     "reproindex"
-  ],
-  "source":"https://cTuning.org/ae",
-  "license":"CC BY-SA 4.0"
+  ]
 }
