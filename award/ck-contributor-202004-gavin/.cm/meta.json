@@ -1,0 +1,16 @@
+{
+  "date":"April 2020",
+  "pdf":"ck-award.pdf",
+  "to":"Gavin Simpson and Anton Lokhmotov",
+  "from":"<a href=\"https://cTuning.org\">cTuning foundation</a>",
+  "for":"contributing CK components and portable workflows for <a href=\"https://software.intel.com/en-us/openvino-toolkit\">Intel OpenVINO</a>",
+  "related_urls": [
+    {"url":"https://cknowledge.io/?q=module_uoa%3A%22solution%22+AND+openvino", "name":"portable CK solutions"},
+    {"url":"https://cknowledge.io/result/mlperf-inference-v0.5-detection", "name":"CK scoreboard for MLPerf object detection"},
+    {"url":"https://cknowledge.io/result/mlperf-inference-v0.5-classification", "name":"CK scoreboard for MLPerf image classification"},
+    {"url":"https://cknowledge.io/?q=%22reproduced-results%22+AND+mlperf", "name":"All CK scoreboards for MLPerf"},
+    {"url":"https://github.com/ctuning/ck-openvino", "name":"GitHub ck-openvino repository"},
+    {"url":"https://github.com/ctuning/ck-mlperf", "name":"GitHub ck-mlperf repository"},
+    {"url":"https://software.intel.com/en-us/openvino-toolkit", "name":"Intel OpenVINO toolkit"}
+  ]
+}

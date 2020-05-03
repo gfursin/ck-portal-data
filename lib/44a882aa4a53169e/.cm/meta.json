@@ -1,0 +1,27 @@
+{
+  "license": "CC BY-SA 4.0",
+  "meta": {
+    "all_artifact_sources": [],
+    "artifact_doi_url": "https://github.com/xinhaoyuan/morpheus",
+    "artifact_sources": "https://osf.io/69h75",
+    "authors": "Xinhao Yuan, Junfeng Yang",
+    "badge_acm_artifact_available": "yes",
+    "badge_acm_artifact_reusable": "yes",
+    "paper_doi_url": "https://dl.acm.org/doi/10.1145/3373376.3378484",
+    "paper_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3373376.3378484?download=true",
+    "reproducibility_url": "https://cknowledge.io/c/event/repro-asplos2020",
+    "title": "Effective Concurrency Testing for Distributed Systems",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
+    "where": "ASPLOS'20",
+    "where_url": "https://asplos-conference.org"
+  },
+  "source": "https://cTuning.org/ae",
+  "tags": [
+    "papers",
+    "papers-asplos",
+    "papers-asplos-2020",
+    "reproduced-papers",
+    "ctuning",
+    "reproindex"
+  ]
+}

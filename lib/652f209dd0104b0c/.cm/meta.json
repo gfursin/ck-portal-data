@@ -1,0 +1,28 @@
+{
+  "license": "CC BY-SA 4.0",
+  "meta": {
+    "artifact_doi_url": "http://doi.org/10.5072/zenodo.428226",
+    "artifact_sources": "https://github.com/Qiskit/qiskit-terra",
+    "authors": "Prakash Murali, David Mckay, Margaret Martonosi, Ali Javadi-Abhari",
+    "badge_acm_artifact_available": "yes",
+    "paper_doi_url": "https://dl.acm.org/doi/10.1145/3373376.3378477",
+    "paper_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3373376.3378477?download=true",
+    "related_urls": [
+      "http://www.datacite.org.s3-website-eu-west-1.amazonaws.com/404.html"
+    ],
+    "reproducibility_url": "https://cknowledge.io/c/event/repro-asplos2020",
+    "title": "Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
+    "where": "ASPLOS'20",
+    "where_url": "https://asplos-conference.org"
+  },
+  "source": "https://cTuning.org/ae",
+  "tags": [
+    "papers",
+    "papers-asplos",
+    "papers-asplos-2020",
+    "reproduced-papers",
+    "ctuning",
+    "reproindex"
+  ]
+}

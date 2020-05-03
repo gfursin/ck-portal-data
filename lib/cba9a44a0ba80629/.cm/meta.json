@@ -1,0 +1,29 @@
+{
+  "license": "CC BY-SA 4.0",
+  "meta": {
+    "artifact_doi_url": "http://doi.org/10.5281/zenodo.3606885",
+    "artifact_sources": "",
+    "authors": "Sotiris Apostolakis, Ziyang Xu, Greg Chan, Simone Campanoni, David August",
+    "badge_acm_artifact_available": "yes",
+    "badge_acm_artifact_reusable": "yes",
+    "paper_doi_url": "https://dl.acm.org/doi/abs/10.1145/3373376.3378458",
+    "paper_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3373376.3378458?download=true",
+    "related_urls": [
+      "https://zenodo.org/record/3606885"
+    ],
+    "reproducibility_url": "https://cknowledge.io/c/event/repro-asplos2020",
+    "title": "Perspective: A Sensible Approach to Speculative Automatic Parallelization",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
+    "where": "ASPLOS'20",
+    "where_url": "https://asplos-conference.org"
+  },
+  "source": "https://cTuning.org/ae",
+  "tags": [
+    "papers",
+    "papers-asplos",
+    "papers-asplos-2020",
+    "reproduced-papers",
+    "ctuning",
+    "reproindex"
+  ]
+}

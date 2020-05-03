@@ -1,0 +1,19 @@
+{
+  "backup_data_uid": "4f96c0ab84972bdb",
+  "backup_module_uid": "d45ac819e89d54af",
+  "backup_module_uoa": "lib",
+  "control": {
+    "author": "Grigori Fursin",
+    "author_email": "Grigori.Fursin@cTuning.org",
+    "author_webpage": "http://fursin.net",
+    "copyright": "See CK COPYRIGHT.txt for copyright details",
+    "engine": "CK",
+    "iso_datetime": "2020-04-29T09:38:42.906361",
+    "license": "See CK LICENSE.txt for licensing details",
+    "version": [
+      "1",
+      "15",
+      "0"
+    ]
+  }
+}

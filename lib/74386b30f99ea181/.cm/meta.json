@@ -1,0 +1,29 @@
+{
+  "license": "CC BY-SA 4.0",
+  "meta": {
+    "artifact_doi_url": "http://doi.org/10.5281/zenodo.3555508",
+    "artifact_sources": "https://github.com/columbia/dvh-asplos-ae",
+    "authors": "Jin Tack Lim, Jason Nieh",
+    "badge_acm_artifact_available": "yes",
+    "badge_acm_artifact_reusable": "yes",
+    "paper_doi_url": "https://dl.acm.org/doi/10.1145/3373376.3378467",
+    "paper_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3373376.3378467?download=true",
+    "related_urls": [
+      "https://zenodo.org/record/3555508"
+    ],
+    "reproducibility_url": "https://cknowledge.io/c/event/repro-asplos2020",
+    "title": " Performance Using Direct Virtual Hardware",
+    "unified_artifact_appendix": "https://ctuning.org/ae/submission_extra.html",
+    "where": "ASPLOS'20",
+    "where_url": "https://asplos-conference.org"
+  },
+  "source": "https://cTuning.org/ae",
+  "tags": [
+    "papers",
+    "papers-asplos",
+    "papers-asplos-2020",
+    "reproduced-papers",
+    "ctuning",
+    "reproindex"
+  ]
+}
