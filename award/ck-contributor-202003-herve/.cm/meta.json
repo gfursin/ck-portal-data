@@ -1,0 +1,10 @@
+{
+  "date":"March 2020",
+  "pdf":"ck-award.pdf",
+  "to":"Hervé Guillou",
+  "from":"<a href=\"https://cTuning.org\">cTuning foundation</a>",
+  "for":"helping to develop portable <a href=\"https://cKnowledge.io/solutions\">CK solutions</a> for ML crowd-benchmarking",
+  "related_urls": [
+    {"url":"https://cknowledge.io/?q=module_uoa%3A%22solution%22", "name":"portable CK solutions"}
+  ]
+}
