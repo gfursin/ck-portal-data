@@ -1,0 +1,9 @@
+{
+  "date": "November 2020",
+  "for": "contributing CK components and portable workflows for the <a href=\"https://mlperf.org/inference-results-0-7\">MLPerf inference benchmark v0.7</a>",
+  "from": "<a href=\"https://cTuning.org\">cTuning foundation</a>",
+  "pdf": "ck-award.pdf",
+  "related_urls": [
+  ],
+  "to": "Leo Gordon and Anton Lokhmotov"
+}
